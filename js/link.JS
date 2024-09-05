@@ -1,7 +1,7 @@
 //LINK
 const uxElementLink = document.querySelectorAll('header img,' + '.shopCar');
 uxElementLink[0].onclick = ()=>{
-    window.location.href = 'https://ecommerce-pi-nine-17.vercel.app/';
+    window.location.href = 'https://e-commerce-tau-indol.vercel.app/';
 }
 
 uxElementLink[1].onclick = ()=>{
